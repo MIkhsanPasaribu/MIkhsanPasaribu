@@ -54,7 +54,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIkhsanPasaribu/MIkhsanPasaribu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIkhsanPasaribu/MIkhsanPasaribu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MIkhsanPasaribu/MIkhsanPasaribu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="[https://raw.githubusercontent.com/MIkhsanPasaribu/MIkhsanPasaribu/output/pacman-contribution-graph.svg](https://github.com/MIkhsanPasaribu/.github/blob/0c516ccce9ca2b21df606581dd75f2721cc5434e/workflows/pacman.yml)">
 </picture>
 
 ###
