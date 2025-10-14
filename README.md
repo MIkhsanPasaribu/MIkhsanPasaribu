@@ -123,50 +123,59 @@ me.say_hi()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AI Image Generation System</h3>
+      <h3 align="center">UKRO UNP Recruitment System</h3>
       <div align="center">
-        <a href="https://github.com/MIkhsanPasaribu" target="_blank">
-          <img src="https://cdn.pixabay.com/photo/2023/01/22/12/16/ai-generated-7736464_1280.jpg" width="100%" alt="AI project"/>
+        <a href="https://github.com/MIkhsanPasaribu/ukrounp-recruitment" target="_blank">
+          <img src="https://cdn.pixabay.com/photo/2017/06/10/07/18/laptop-2381180_1280.jpg" width="100%" alt="UKROUNP Recruitment"/>
         </a>
-        <p><strong>Deep Learning | GANs | Computer Vision</strong> - Advanced AI system for generating realistic images from text descriptions.</p>
+        <p><strong>React | Node.js | Express | MongoDB</strong><br>
+        Web-based recruitment platform for UKROUNP organization, simplifying member registration, data management, and selection flow.</p>
+        <a href="https://github.com/MIkhsanPasaribu/ukrounp-recruitment" target="_blank">🔗 View Project</a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Smart Analytics Dashboard</h3>
+      <h3 align="center">AIVIA - Aplikasi Asisten Alzheimer</h3>
       <div align="center">
-        <a href="https://github.com/MIkhsanPasaribu" target="_blank">
-          <img src="https://cdn.pixabay.com/photo/2018/05/04/09/11/analytics-3373859_1280.jpg" width="100%" alt="Dashboard project"/>
+        <a href="https://github.com/MIkhsanPasaribu/project_aivia" target="_blank">
+          <img src="https://cdn.pixabay.com/photo/2020/02/27/17/31/voice-4881875_1280.jpg" width="100%" alt="AIVIA App"/>
         </a>
-        <p><strong>React | D3.js | Python Backend</strong> - Real-time data visualization platform with ML-powered insights.</p>
+        <p><strong>Flutter | Dart </strong><br>
+        Aplikasi Android berbasis Flutter yang dirancang sebagai alat bantu khusus untuk anak-anak penderita penyakit Alzheimer.</p>
+        <a href="https://github.com/MIkhsanPasaribu/project_aivia" target="_blank">🔗 View Project</a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NLP Document Analyzer</h3>
+      <h3 align="center">Fintar - Financial Tracker</h3>
       <div align="center">
-        <a href="https://github.com/MIkhsanPasaribu" target="_blank">
-          <img src="https://cdn.pixabay.com/photo/2023/02/10/14/02/generative-ai-7780422_1280.jpg" width="100%" alt="NLP project"/>
+        <a href="https://github.com/MIkhsanPasaribu/fintar" target="_blank">
+          <img src="https://cdn.pixabay.com/photo/2018/01/18/08/37/analysis-3088958_1280.jpg" width="100%" alt="Fintar"/>
         </a>
-        <p><strong>NLP | BERT | Flask</strong> - Document analysis tool for extracting insights and summarizing content.</p>
+        <p><strong>NextJs | NestJs | Supabase | Langchain</strong><br>
+        Smart financial management web app that helps users analyze spending, visualize data trends, and achieve financial goals.</p>
+        <a href="https://github.com/MIkhsanPasaribu/fintar" target="_blank">🔗 View Project</a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Intelligent IoT System</h3>
+      <h3 align="center">UltahDindottt - Celebration Site</h3>
       <div align="center">
-        <a href="https://github.com/MIkhsanPasaribu" target="_blank">
-          <img src="https://cdn.pixabay.com/photo/2021/10/11/17/37/technology-6701504_1280.jpg" width="100%" alt="IoT project"/>
+        <a href="https://github.com/MIkhsanPasaribu/ultahdindottt" target="_blank">
+          <img src="https://cdn.pixabay.com/photo/2016/12/26/17/28/happy-birthday-1934221_1280.jpg" width="100%" alt="UltahDindottt"/>
         </a>
-        <p><strong>TensorFlow Lite | Edge Computing | IoT</strong> - Smart IoT system with on-device AI capabilities.</p>
+        <p><strong>HTML | CSS | JavaScript</strong><br>
+        A creative and interactive birthday website with custom animations and personalized greeting experiences for my lovely dindottt.</p>
+        <a href="https://github.com/MIkhsanPasaribu/ultahdindottt" target="_blank">🔗 View Project</a>
       </div>
     </td>
   </tr>
 </table>
+
 
 ## 📚 Learning & Growth
 
